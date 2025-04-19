@@ -6,23 +6,23 @@
 class Student
 {
 	private:
-		string gradStatus;
+		std::string gradStatus;
 	public:
-		string name;
-		string gpa;
-		string gradYear;
-		string gradSemester;
-		string enrollYear;
-		string enrollSemester;
+		std::string name;
+		std::string gpa;
+		std::string gradYear;
+		std::string gradSemester;
+		std::string enrollYear;
+		std::string enrollSemester;
 
 		Student(){}
-		Student(string name, string gpa, string gradYear, string gradSemester, 
-		string enrollYear)
-		{this.name = name; this.gpa = gpa; this.gradYear = gradYear; this.gradSemester = gradSemester; 
-		this.enrollYear = enrollYear;}
+		Student(std::string name, std::string gpa, std::string gradYear, 
+			std::string gradSemester, std::string enrollYear, std::string enrollSemester);
 		
-		void setGradStatus();
+		
+		void setGradStatus(std::string status);
+		std::string getGradStatus() { return gradStatus; }
 
 }
-
+;
 #endif
