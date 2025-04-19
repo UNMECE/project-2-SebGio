@@ -1,0 +1,112 @@
+Art Students: 
+------------------------------------
+1
+------------------------------------
+Name: Carol Miller
+GPA: 3.2
+Graduation Year: 2020
+Graduation Semester: Spring
+Enrolled Year: 2016
+Enrolled Semester: Fall
+Graduation Status: Graduate
+Art Emphasis: Art History
+------------------------------------
+2
+------------------------------------
+Name: Jack Taylor
+GPA: 4.6
+Graduation Year: 2025
+Graduation Semester: Spring
+Enrolled Year: 2021
+Enrolled Semester: Fall
+Graduation Status: Undergraduate
+Art Emphasis: Art Studio
+------------------------------------
+3
+------------------------------------
+Name: Gabriel Volodya
+GPA: 3.3
+Graduation Year: 2019
+Graduation Semester: Spring
+Enrolled Year: 2015
+Enrolled Semester: Fall
+Graduation Status: Graduate
+Art Emphasis: Art Education
+------------------------------------
+4
+------------------------------------
+Name: Charlie Gonzalez
+GPA: 4.0
+Graduation Year: 2026
+Graduation Semester: Spring
+Enrolled Year: 2022
+Enrolled Semester: Fall
+Graduation Status: Undergraduate
+Art Emphasis: Art Education
+------------------------------------
+5
+------------------------------------
+Name: Joanne Smith
+GPA: 3.5
+Graduation Year: 2015
+Graduation Semester: Spring
+Enrolled Year: 2011
+Enrolled Semester: Fall
+Graduation Status: Graduate
+Art Emphasis: Art History
+Pysics Students: 
+------------------------------------
+1
+------------------------------------
+Name: Brian Anderson
+GPA: 4.4
+Graduation Year: 2025
+Graduation Semester: Spring
+Enrolled Year: 2017
+Enrolled Semester: Fall
+Graduation Status: Undergraduate
+Concentration: Earth and Planetary Sciences
+------------------------------------
+2
+------------------------------------
+Name: Isabella Redmond
+GPA: 4.5
+Graduation Year: 2019
+Graduation Semester: Spring
+Enrolled Year: 2011
+Enrolled Semester: Fall
+Graduation Status: Graduate
+Concentration: Biophysics
+------------------------------------
+3
+------------------------------------
+Name: Celine Astride
+GPA: 3.9
+Graduation Year: 2020
+Graduation Semester: Spring
+Enrolled Year: 2012
+Enrolled Semester: Fall
+Graduation Status: Graduate
+Concentration: Biophysics
+------------------------------------
+4
+------------------------------------
+Name: Iris Blanche
+GPA: 3.2
+Graduation Year: 2027
+Graduation Semester: Spring
+Enrolled Year: 2019
+Enrolled Semester: Fall
+Graduation Status: Undergraduate
+Concentration: Earth and Planetary Sciences
+------------------------------------
+5
+------------------------------------
+Name: George Steel
+GPA: 3.7
+Graduation Year: 2028
+Graduation Semester: Spring
+Enrolled Year: 2020
+Enrolled Semester: Fall
+Graduation Status: Undergraduate
+Concentration: Biophysics
